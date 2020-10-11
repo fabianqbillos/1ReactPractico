@@ -1,5 +1,8 @@
+@import './vars.scss'
+@import './Media.scss'
+
 body{
   margin: 0;
-  background-color: aquamarine;
-  color: rgb(29, 22, 12);
+  background-color: $main-color;
+  font-family: $theme-font;
 }

@@ -1,0 +1,24 @@
+footer .index-footer{
+  background-color: #8f57fd;
+}
+
+.footer{
+  background-color: #8f57fd;
+  display: flex;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
+
+.footer a{
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  /* padding-left: 30px; */
+  margin: auto;
+  text-decoration: none;
+}
+
+.footer a:hover{
+  text-decoration: underline;
+}
